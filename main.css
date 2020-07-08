@@ -1,0 +1,39 @@
+.mainContainer {
+    padding-left: 600px;
+    line-height: 1.5;
+    white-space: nowrap;
+    overflow: scroll;
+}
+
+header {
+    font-size: 13px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.headerSpan {
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+}
+
+.headerSpan2 {
+    word-spacing: 15px;  
+    padding-left: 230px;
+}
+
+#title {
+    font-size: 20px;
+}
+
+#date {
+    font-size: 12px;
+    font-style: italic;
+    font-weight: normal;
+    color: grey;
+}
+
+.content {
+    font-size: 16px;
+    white-space: normal;
+    padding-right: 780px;
+}
